@@ -12,7 +12,7 @@ C++ Cheats for CS2 by Sams0n0v
 - DirectX SDK June 2010 (для d3dx9.lib)
 
 Структура проекта:
-- main.cpp - пример исходного кода
+- MemoryTool.cpp - пример исходного кода
 - imgui/ - исходники Dear ImGui и backends
 - include/ - заголовочные файлы GLFW, GLEW, d3dx9
 - libs/ - бинарные файлы библиотек (lib и dll)
